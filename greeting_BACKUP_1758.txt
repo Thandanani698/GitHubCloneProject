@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+This is my feature
+=======
+Hello, this is a message from my cloned repository!
+>>>>>>> 85ae4bcd4da645bf86399df2e18a1a6ac3ac80b7
